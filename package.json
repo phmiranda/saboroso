@@ -1,0 +1,7 @@
+{
+  "name": "saboroso",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap": "^3.4.1"
+  }
+}
