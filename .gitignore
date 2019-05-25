@@ -9,5 +9,8 @@ composer.lock
 package-lock.json
 
 # comentário
+public/default.php
+
+# comentário
 node_modules/
 vendor/
