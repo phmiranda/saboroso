@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/phmiranda/saboroso#readme",
   "dependencies": {
+    "admin-lte": "^2.4.18",
     "bootstrap": "^3.4.1",
     "express": "^4.17.1",
     "jquery": "^3.4.1"
