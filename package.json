@@ -19,5 +19,14 @@
   "bugs": {
     "url": "https://github.com/phmiranda/saboroso/issues"
   },
-  "homepage": "https://github.com/phmiranda/saboroso#readme"
+  "homepage": "https://github.com/phmiranda/saboroso#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "express": "^4.17.1",
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "jasmine": "^3.5.0",
+    "protractor": "^5.4.2"
+  }
 }
