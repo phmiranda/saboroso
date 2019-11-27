@@ -1,7 +1,9 @@
 # comentário
 .idea/
-.vscode/
 nbproject/
+.vscode/
+
+# comentário
 *.iml
 
 # comentário
@@ -12,5 +14,6 @@ package-lock.json
 public/default.php
 
 # comentário
+bower_components/
 node_modules/
 vendor/
